@@ -1,3 +1,4 @@
-# Estudos de Reativo
+# Modelo base de API
 
-TESTE 123 HELLO WORD xD
+É um modelo base de API para ser reutilizado em estudos de outros recursos.
+Possui uma conexao com banco de dados e sua estrura basica de API
